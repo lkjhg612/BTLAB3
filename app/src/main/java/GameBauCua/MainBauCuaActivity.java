@@ -45,7 +45,7 @@ public class MainBauCuaActivity extends AppCompatActivity {
                 String o1 = uploadImage(so1, anh1);
                 String o2 = uploadImage(so2, anh2);
                 String o3 = uploadImage(so3, anh3);//hiện 3 hình
-                String o4 = uploadImage(so4, anh4);
+                String o4 = uploadImage(so4, anh4);// Hiện 4 hình
 
                 Toast.makeText(MainBauCuaActivity.this, "KẾT QUẢ LẦN RANDOM: " + o1 + ","  + o2 + "," + o3+ "," + o4 , Toast.LENGTH_LONG).show();
             }
