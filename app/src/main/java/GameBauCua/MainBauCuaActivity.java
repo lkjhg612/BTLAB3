@@ -16,7 +16,7 @@ import java.util.Random;
 
 public class MainBauCuaActivity extends AppCompatActivity {
 
-    Button nutBam, nutThoat, demo;
+    Button nutBam, nutThoat, Test;
     ImageView anh1, anh2, anh3, anh4;
 
     @Override
